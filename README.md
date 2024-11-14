@@ -1,4 +1,10 @@
-## Hi there 👋
+## bem vindo ao meu perfil
+
+Sou aluno da escola João Jorge Marmorato cursandoa a matéria de Tecnologia e Inovação. Estou fazendo um concurso com bsaena linguagem  JavaScript, na blibioteca p5js, fornecido pela plataforma AluraStart. Utilizo esse espaço para compartilhar os projetos do Alura. 
+
+## Meu contato:
+
+0001107918431sp@al.educacao.sp.gov.br
 
 <!--
 **silveira0308/silveira0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
